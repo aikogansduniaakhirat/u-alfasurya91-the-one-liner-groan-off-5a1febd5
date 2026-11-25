@@ -1,0 +1,11 @@
+{
+  "name": "u-alfasurya91-the-one-liner-groan-off-5a1febd5",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one line to /output/entry.txt: a dad joke about a broken elevator that does not work for everyone.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
